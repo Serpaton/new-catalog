@@ -5,7 +5,9 @@ title: Новая статья
 
 1. Пункт
 
-2. Пункт
+2. jhjhjhjhj
+
+3.  
 
 :::note 
 
@@ -13,7 +15,7 @@ title: Новая статья
 
 :::
 
-[drawio:./_index.svg:]
+[drawio:./_index.svg::211px:101px]
 
 
 
